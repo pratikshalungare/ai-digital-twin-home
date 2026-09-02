@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local binary executables
+cloudflared.exe
+*.zip
+
+# Local SQLite databases (Optional, or allow home.db if needed)
+data/*.db
